@@ -8,7 +8,7 @@
 #### [Abdelrahman Shaker](https://amshaker.github.io), [Syed Talal](https://talalwasim.github.io/), [Martin Danelljan](https://martin-danelljan.github.io/), [Salman Khan](https://salman-h-khan.github.io/), [Ming-Hsuan Yang](https://scholar.google.com.pk/citations?user=p9-ohHsAAAAJ&hl=en) and [Fahad Khan](https://sites.google.com/view/fahadkhans/home)
 
 
-#### **Mohamed bin Zayed University of AI, ETH Zurich, University of California - Merced, Linköping University, Google Research**
+#### **Mohamed bin Zayed University of AI, ETH Zurich, University of California - Merced, Yonsei University, Google Research, Linköping University**
 
 
 
@@ -51,6 +51,8 @@ Recently, transformer-based approaches have shown promising results for semi-sup
 <img src="source/LTV.png" width="90%"/>
 
 
+## Acknowledgment
+The computations were enabled by resources provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS) at Alvis partially funded by the Swedish Research Council through grant agreement no. 2022-06725, the LUMI supercomputer hosted by CSC (Finland) and the LUMI consortium, and by the Berzelius resource provided by the Knut and Alice Wallenberg Foundation at the National Supercomputer Centre.
 
 ## License
 This project is released under the BSD-3-Clause license. See [LICENSE](LICENSE) for additional details.
