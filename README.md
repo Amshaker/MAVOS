@@ -10,10 +10,11 @@
 
 #### **Mohamed bin Zayed University of AI, ETH Zurich, University of California - Merced, Yonsei University, Google Research, Linköping University**
 
-
+<!-- [![Website](https://img.shields.io/badge/Project-Website-87CEEB)](site_url) -->
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2403.17937.pdf)
 
 ## Latest 
-- `2024/03/24`: We released our technical report on arxiv. Our code and models are coming soon!
+- `2024/03/24`: We released our technical report on [arxiv](https://arxiv.org/pdf/2403.17937.pdf). Our code and models are coming soon!
 
 <br>
 <details>
@@ -53,6 +54,19 @@ Recently, transformer-based approaches have shown promising results for semi-sup
 
 ## Acknowledgment
 The computations were enabled by resources provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS) at Alvis partially funded by the Swedish Research Council through grant agreement no. 2022-06725, the LUMI supercomputer hosted by CSC (Finland) and the LUMI consortium, and by the Berzelius resource provided by the Knut and Alice Wallenberg Foundation at the National Supercomputer Centre.
+
+## Citation
+if you use our work, please consider citing us:
+```BibTeX
+@article{Shaker2024MAVOS,
+  title={Efficient Video Object Segmentation via Modulated Cross-Attention Memory},
+  author={Shaker, Abdelrahman and Wasim, Syed and Danelljan, Martin and Khan, Salman and Yang, Ming-Hsuan and Khan, Fahad Shahbaz},
+  journal={arXiv:2403.17937},
+  year={2024}
+}
+
+```
+
 
 ## License
 This project is released under the BSD-3-Clause license. See [LICENSE](LICENSE) for additional details.
