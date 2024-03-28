@@ -5,7 +5,7 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
 </p>
 
-#### [Abdelrahman Shaker](https://amshaker.github.io), [Syed Talal](https://talalwasim.github.io/), [Martin Danelljan](https://martin-danelljan.github.io/), [Salman Khan](https://salman-h-khan.github.io/), [Ming-Hsuan Yang](https://scholar.google.com.pk/citations?user=p9-ohHsAAAAJ&hl=en) and [Fahad Khan](https://sites.google.com/view/fahadkhans/home)
+#### [Abdelrahman Shaker](https://amshaker.github.io), [Syed Talal Wasim](https://talalwasim.github.io/), [Martin Danelljan](https://martin-danelljan.github.io/), [Salman Khan](https://salman-h-khan.github.io/), [Ming-Hsuan Yang](https://scholar.google.com.pk/citations?user=p9-ohHsAAAAJ&hl=en) and [Fahad Khan](https://sites.google.com/view/fahadkhans/home)
 
 
 #### **Mohamed bin Zayed University of AI, ETH Zurich, University of California - Merced, Yonsei University, Google Research, Linköping University**
@@ -26,12 +26,12 @@ Recently, transformer-based approaches have shown promising results for semi-sup
 
 ## Intro
 
-- **MAVOS** is a transformer-based VOS method that achieves real-time FPS and reduced GPU memory for long videos.
+- **MAVOS** is a transformer-based VOS method that achieves real-time FPS and reduced GPU memory for long videos. We introduce a Modulated Cross-Attention (MCA) memory, designed to efficiently propagate information from past frames to the target. Our approach utilizes a novel fusion operator capable of effectively managing both local and global features across diverse levels of detail.
 
 
 <img src="source/MAVOS_overview.png" width="80%"/>
 
-- **MAVOS**  increases the speed by 7.6x over the baseline DeAOT, while significantly reducing the GPU memory by 87% on long videos with comparable segmentation performance on short and long video datasets.
+- **MAVOS**  increases the speed by 7.6x over the baseline DeAOT, while significantly reducing the GPU memory by 87% on long videos with comparable segmentation performance on short and long video datasets. 
 
 <img src="source/Intro_figure.png" width="70%"/>
 
