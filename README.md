@@ -109,6 +109,8 @@ Pre-trained models of our project can be found in [MODEL_ZOO.md](MODEL_ZOO.md).
 <img src="source/LTV.png" width="90%"/>
 
 ## Acknowledgment
+Our code base is based on the [AOT](https://github.com/yoxu515/aot-benchmark/tree/main) repository. We thank the authors for their open-source implementation.
+
 The computations were enabled by resources provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS) at Alvis partially funded by the Swedish Research Council through grant agreement no. 2022-06725, the LUMI supercomputer hosted by CSC (Finland) and the LUMI consortium, and by the Berzelius resource provided by the Knut and Alice Wallenberg Foundation at the National Supercomputer Centre.
 
 ## Citations
