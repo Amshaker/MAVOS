@@ -41,10 +41,9 @@ Recently, transformer-based approaches have shown promising results for semi-sup
 
 ## Examples
 
-[![Watch the video](https://raw.githubusercontent.com/Amshaker/MAVOS/main/source/basket_players.png)](https://raw.githubusercontent.com/Amshaker/MAVOS/main/source/basket_players.mp4)
+https://github.com/user-attachments/assets/ca2902ed-0b82-4129-89c3-3824c782818a
 
-
-[![Watch the video](https://raw.githubusercontent.com/Amshaker/MAVOS/main/source/dancing_girls.png)](https://raw.githubusercontent.com/Amshaker/MAVOS/main/source/dancing_girls.mp4)
+https://github.com/user-attachments/assets/d4d5b77c-5fa3-4fbb-a94c-df7f8ccb3413
 
 <br>
 
