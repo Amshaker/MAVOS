@@ -8,7 +8,7 @@
 #### [Abdelrahman Shaker](https://amshaker.github.io), [Syed Talal Wasim](https://talalwasim.github.io/), [Martin Danelljan](https://martin-danelljan.github.io/), [Salman Khan](https://salman-h-khan.github.io/), [Ming-Hsuan Yang](https://scholar.google.com.pk/citations?user=p9-ohHsAAAAJ&hl=en) and [Fahad Khan](https://sites.google.com/view/fahadkhans/home)
 
 
-#### **Mohamed bin Zayed University of AI, ETH Zurich, University of California - Merced, Yonsei University, Google Research, Linköping University**
+#### **Mohamed bin Zayed University of AI, University of Bonn, Lamarr Institute of ML and AI, ETH Zurich, University of California - Merced, Google Research, Linköping University**
 
 <!-- [![Website](https://img.shields.io/badge/Project-Website-87CEEB)](site_url) -->
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2403.17937.pdf)
