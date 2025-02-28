@@ -117,11 +117,13 @@ The computations were enabled by resources provided by the National Academic Inf
 Please consider citing our paper in your publications if it helps your research.
 ```
 
-@article{Shaker2024MAVOS,
-  title={Efficient Video Object Segmentation via Modulated Cross-Attention Memory},
-  author={Shaker, Abdelrahman and Wasim, Syed and Danelljan, Martin and Khan, Salman and Yang, Ming-Hsuan and Khan, Fahad Shahbaz},
-  journal={arXiv:2403.17937},
-  year={2024}
+@inproceedings{Shaker_2025_WACV,
+    author    = {Shaker, Abdelrahman and Wasim, Syed Talal and Danelljan, Martin and Khan, Salman and Yang, Ming-Hsuan and Khan, Fahad Shahbaz},
+    title     = {Efficient Video Object Segmentation via Modulated Cross-Attention Memory},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {8670-8679}
 }
 ```
 
